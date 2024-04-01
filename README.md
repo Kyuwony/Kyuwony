@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Introduction
+안녕하세요
+
+## Career
+영남대학교 컴퓨터공학과
+
+## Links
+- Email : kyuwon456@naver.com
+
 <!--
 **Kyuwony/Kyuwony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
